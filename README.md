@@ -1,0 +1,2 @@
+# Python-
+Concept simplified 
